@@ -3,7 +3,7 @@
 	🌸 Rising senior at Baruch College, studying Data Analytics
 	🌟 Aspiring Data Analyst, passionate about Machine Learning and using data to solve real-world business problems
 
-I love working with large datasets where building models is crucial to answering a business problem, and I enjoy finding creative, sometimes unconventional ways to get there. I'm always looking to sharpen my coding efficiency and grow my skills in data analysis. Currently, I'm building machine learning models and understanding performance metrics as a Break Through Tech AI Fellow. I'm looking to apply these skills in an internship where I can contribute to exciting projects and learn from industry professionals.
+I love working with large datasets where building models is crucial to answering a business problem, and I enjoy finding creative, sometimes unconventional ways to get there. I'm always looking to sharpen my coding efficiency and grow my skills in data analysis. Currently, I'm building machine learning models and understanding performance metrics as a Break Through Tech AI Fellow. I'd love to bring these skills into an internship, where I can contribute to impactful work and learn from experienced professionals in the field!
 
 	💬 Ask me about what got me interested in coding! 
 
