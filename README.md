@@ -1,5 +1,4 @@
 ## Hi, I'm Shiqi (Shi-ki)! 🌷
-	🤍 Pronouns: She/Her/Hers 
 	🌸 Rising senior at Baruch College, studying Data Analytics
 	🌟 Aspiring Data Analyst, passionate about Machine Learning and using data to solve real-world business problems
 
