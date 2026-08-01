@@ -1,4 +1,5 @@
 ## Hi, I'm Shiqi (Shi-ki)! 🌷
+Aspiring data or risk analyst with experience in *cleaning,* *sorting,* and *handling* large datasets for data preparation and further analysis. 
 	🎓 BBA in Data Analytics at Baruch College
 	💻 Interests: Web Development, Database Management Systems, Machine Learning 
 	🌷 Currently learning: Python for Data Analysis, Machine Learning Models, and AWS
