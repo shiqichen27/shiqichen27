@@ -2,9 +2,9 @@
 Aspiring data or risk analyst with experience **cleaning,** **transforming,** and **validating** large datasets to support analysis and decision-making.
 
 	🎓 BBA in Data Analytics at Baruch College
-	💻 **Interests:** Web Development, Database Management Systems, Machine Learning 
-	🌷 **Currently learning:** Python for Data Analysis, Machine Learning Models, and AWS
-	📫 **Reach me:** linkedin.com/in/shiqichen27 
+	💻 Interests: Web Development, Database Management Systems, Machine Learning 
+	🌷 Currently learning: Python for Data Analysis, Machine Learning Models, and AWS
+	📫 Reach me: linkedin.com/in/shiqichen27 
 
 I love working with large datasets where analyzing data through model implementation is crucial to answering a business problem, and I enjoy finding creative, sometimes unconventional ways to get there. 
 
