@@ -6,7 +6,9 @@ Aspiring data or risk analyst with experience in *cleaning,* *sorting,* and *han
 	🌷 Currently learning: Python for Data Analysis, Machine Learning Models, and AWS
 	📫 Reach me: linkedin.com/in/shiqichen27 
 
-I love working with large datasets where building models is crucial to answering a business problem, and I enjoy finding creative, sometimes unconventional ways to get there. I'm always looking to sharpen my coding efficiency and grow my python knowledge and querying skills in data analysis. Currently, I'm building machine learning models and understanding performance metrics as a Break Through Tech AI Fellow. I'd love to bring these skills into an internship, where I can contribute to impactful work and learn from experienced professionals in the field through projects!
+I love working with large datasets where analyzing data through model implementation is crucial to answering a business problem, and I enjoy finding creative, sometimes unconventional ways to get there. 
+
+I'm always looking to sharpen my coding efficiency by growing my python knowledge and querying databases to build data analysis foundation. Currently, I'm building machine learning models and understanding their performance metrics as a Break Through Tech AI Fellow. I'd love to bring these skills into an internship, where I can contribute to impactful work and learn from experienced professionals in the field through projects!
 
 	💬 Ask me about what got me interested in coding! 
 
