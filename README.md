@@ -1,12 +1,14 @@
 ## Hi, I'm Shiqi (Shi-ki)! 🌷
-	🌸 Rising senior at Baruch College, studying Data Analytics
-	🌟 Aspiring Data Analyst, passionate about Machine Learning and using data to solve real-world business problems
+	🎓 BBA in Data Analytics at Baruch College
+	💻 Interests: Web Development, Database Management Systems, Machine Learning 
+	🌷 Currently learning: Python for Data Analysis, Machine Learning Models, and AWS
+	📫 Reach me: https://www.linkedin.com/in/shiqichen27/
 
-I love working with large datasets where building models is crucial to answering a business problem, and I enjoy finding creative, sometimes unconventional ways to get there. I'm always looking to sharpen my coding efficiency and grow my skills in data analysis. Currently, I'm building machine learning models and understanding performance metrics as a Break Through Tech AI Fellow. I'd love to bring these skills into an internship, where I can contribute to impactful work and learn from experienced professionals in the field!
+I love working with large datasets where building models is crucial to answering a business problem, and I enjoy finding creative, sometimes unconventional ways to get there. I'm always looking to sharpen my coding efficiency and grow my python knowledge and querying skills in data analysis. Currently, I'm building machine learning models and understanding performance metrics as a Break Through Tech AI Fellow. I'd love to bring these skills into an internship, where I can contribute to impactful work and learn from experienced professionals in the field through projects!
 
 	💬 Ask me about what got me interested in coding! 
 
-## Tech Stack 🛠️
+## Technical Skills 🛠️
 #### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
