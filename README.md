@@ -10,7 +10,7 @@ I love working with large datasets, where model implementation is crucial to ans
 
 	💬 Ask me about what got me interested in coding! 
 
-## Technical Skills 🛠️
+## Technical Stack 🛠️
 #### Languages
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
