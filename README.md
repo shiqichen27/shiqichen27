@@ -30,7 +30,7 @@ I love working with large datasets, where model implementation is crucial to ans
 #### Design & Planning
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe InDesign](https://shields.io)
+![Adobe InDesign](https://img.shields.io/badge/-Adobe InDesign-FF3366?style=flat&logo=adobeindesign&logoColor=white"/)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ###### _✨ Fun fact: I find mistakes to be the most rewarding because it means you will keep trying!_ 
