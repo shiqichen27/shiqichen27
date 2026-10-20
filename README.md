@@ -24,7 +24,7 @@ I love working with large datasets, where model implementation is crucial to ans
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&color=%2349649c)
 
 #### AI Tools
-![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white))
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
 
 #### Frameworks & Libraries
