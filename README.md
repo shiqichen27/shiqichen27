@@ -21,6 +21,7 @@ I love working with large datasets, where model implementation is crucial to ans
 #### Version Control Platforms 
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&color=%23609443)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&color=%2349649c)
 
 #### AI Tools
