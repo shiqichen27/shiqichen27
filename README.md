@@ -4,7 +4,7 @@ Aspiring data or risk analyst with experience **cleaning,** **transforming,** an
 	🎓 BBA in Data Analytics at Baruch College
 	💻 Interests: Web Development, Database Management Systems, Machine Learning 
 	🌷 Currently learning: Python for Data Analysis, Machine Learning Models, and AWS
-	📫 Reach me: [Visit LinkedIn](https://www.linkedin.com/in/shiqichen27/)
+	📫 Reach me: [Visit GitHub](https://github.com)
 
 I love working with large datasets, where model implementation is crucial to answering real business problems — and I enjoy finding creative, sometimes unconventional ways to get there. I'm always looking to sharpen my Python skills and strengthen my database querying to build a stronger data analysis foundation. Currently, I'm building machine learning models and studying their performance metrics as a Break Through Tech AI Fellow. I'd love to bring these skills into an internship, where I can contribute to impactful work and learn from experienced professionals through hands-on projects.
 
